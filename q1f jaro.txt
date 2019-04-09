@@ -1,0 +1,19 @@
+RICHARD ANGELO JARO
+QUIZ 1F- TROUBLESHOOTING OG COMPUTER SYSTEMS
+
+GROUP 1 - RASPBERRY PI 3 MODEL 13
+
+Why is it Functional?
+
+It is functional because the installed OS is fully functional with no bugs or errors during the startup
+of the OS. Furthermore, the cables and accesories used for communication between the critical parts
+for functionality is working properly.
+
+During the first try, it couldn't function so they installed an operating system. Then screen went blank
+and it was because of the unstable flow of current.
+
+If the LED is blinking red, the supply doesn't meet the system requirements for required for the
+source of RPi. If the LED blinks green and goes for a steady red afterwards, it is working properly.
+
+site: elinux.org.r-pi-troubleshooting
+
